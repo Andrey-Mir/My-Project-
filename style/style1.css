@@ -11,3 +11,21 @@ body {
     position: relative;
     top: 1px;
 }
+
+.block1 { 
+    width: 200px; 
+    background: rgb(252, 6, 6);
+    padding: 5px;
+    padding-right: 10px; 
+    border: solid 1px black; 
+    
+   }
+   .block2 { 
+    width: 200px; 
+    background: #fc0; 
+    padding: 5px; 
+    border: solid 1px black; 
+   }
+   .text {
+       text-align: center;
+   }
